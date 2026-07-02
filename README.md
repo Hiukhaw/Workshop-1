@@ -1,5 +1,4 @@
 # ระบบร้านขายหนังสือ
-# Wholesale Book Store Management System
 
 ## 📋 ภาพรวมโครงการ | Project Overview
 
